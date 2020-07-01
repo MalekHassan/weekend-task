@@ -1,0 +1,247 @@
+.navegation-bar{
+    overflow: hidden;
+    background-color:white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    
+}
+.navegation-bar :hover{
+    background: #ddd;
+  color: black;
+}
+.left-navegation a{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px 8px;
+    text-decoration: none;
+}
+.Right-navegation a{
+    float: right;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 16px 15px;
+  text-decoration: none;
+}
+.main-image{
+
+    width: 1218px;
+}
+.Main-name{
+    position: absolute;
+   top: 230px;
+   left: 520px;
+}
+.OW{
+    background: rgba(0, 0, 0, 0.6);
+    padding: 16px 8px;
+    border-radius: 20px;
+}
+.Summer{
+    color: white;
+    background: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 730px;
+    left: 8px;
+    padding: 16px 8px;
+    font-style: oblique;
+}
+.Brick{
+    color: white;
+    background: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 730px;
+    left: 312px;
+    padding: 16px 8px;
+    font-style: oblique;
+}
+.Renovated{
+    color: white;
+    background: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 730px;
+    left: 614px;
+    padding: 16px 8px;
+    font-style: oblique;
+}
+.Barn{
+    color: white;
+    background: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 730px;
+    left: 918px;
+    padding: 16px 8px;
+    font-style: oblique;
+}
+.John-Doe-information{
+    position: absolute;
+    top: 1080px;
+    left: 5px;
+}
+
+.John{
+    padding: 16px 8px;
+    text-align: center;
+}
+.info-John{
+    
+    padding: 16px 8px;
+    text-align: center;
+    color: rgb(185, 183, 183);
+}
+.info {
+    width: 300px;
+    word-wrap: normal;
+}
+
+.John-contact{
+    display: inline-block;
+    padding: 8px 120px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    color:black;
+    background-color: rgb(236, 227, 227);
+    border: none;
+    border-radius: 15px;
+}
+.John-contact:hover{
+    background:rgb(168, 163, 163);
+    color: black;
+}
+.Jane-Doe-information{
+    position: absolute;
+    top: 1080px;
+    left: 305px;
+
+}
+.Jane{
+      padding: 16px 8px;
+    text-align: center;
+
+}
+.info-Jane{
+    
+    padding: 16px 8px;
+    text-align: center;
+    color: rgb(185, 183, 183);
+
+}
+.Jane-contact{
+    display: inline-block;
+    padding: 8px 120px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    color:black;
+    background-color: rgb(236, 227, 227);
+    border: none;
+    border-radius: 15px;
+}
+.Jane-contact:hover{
+    background:rgb(168, 163, 163);
+    color: black;
+}
+.Mike-Ross-information{
+    position: absolute;
+    top: 1080px;
+    left: 605px;
+}
+.Mike{
+    padding: 16px 8px;
+    text-align: center;
+}
+.info-Mike{
+    
+    padding: 16px 8px;
+    text-align: center;
+    color: rgb(185, 183, 183);
+
+}
+.Mike-contact{
+    display: inline-block;
+    padding: 8px 120px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    color:black;
+    background-color: rgb(236, 227, 227);
+    border: none;
+    border-radius: 15px;
+}
+.Mike-contact:hover{
+    background:rgb(168, 163, 163);
+    color: black;
+}
+.Dan-Star-information{
+    position: absolute;
+    top: 1080px;
+    left: 905px;
+
+}
+.Dan{
+    padding: 16px 8px;
+    text-align: center;
+}
+.info-Dan{   
+    padding: 16px 8px;
+    text-align: center;
+    color: rgb(185, 183, 183);
+}
+.Dan-contact{
+    display: inline-block;
+    padding: 8px 120px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    color:black;
+    background-color: rgb(236, 227, 227);
+    border: none;
+    border-radius: 15px;
+}
+.Dan-contact:hover{
+    background:rgb(168, 163, 163);
+    color: black;
+}
+.Contact-us{
+    position: absolute;
+    top: 1450px;
+}
+.Sub-button{
+    position: absolute;
+    top: 400px;
+    left: 439px;
+    display: inline-block;
+    padding: 8px 50px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    color:black;
+    background-color: rgb(236, 227, 227);
+    border: none;
+    border-radius: 15px;
+}
+.Sub-button:hover{
+    background:rgb(168, 163, 163);
+    color: black;
+}
+.Name{
+    padding: 8px 525px;
+}
+.Email{
+    padding: 8px 525px;
+}
+.Subject{
+    padding: 8px 525px;
+}
+.Comment{
+    padding: 8px 525px;
+}
+.footer{
+    position: absolute;
+    top: 1450px;
+}
