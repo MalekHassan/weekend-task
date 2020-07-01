@@ -6,6 +6,7 @@
     width: 100%;
     z-index: 100;
     
+    
 }
 .navegation-bar :hover{
     background: #ddd;
@@ -243,5 +244,5 @@
 }
 .footer{
     position: absolute;
-    top: 1450px;
+    top: 1950px;
 }
