@@ -28,10 +28,7 @@
   padding: 16px 15px;
   text-decoration: none;
 }
-.main-image{
 
-    width: 1218px;
-}
 .Main-name{
     position: absolute;
    top: 230px;
@@ -46,7 +43,7 @@
     color: white;
     background: rgba(0, 0, 0, 1);
     position: absolute;
-    top: 730px;
+    top: 879px;
     left: 8px;
     padding: 16px 8px;
     font-style: oblique;
@@ -55,8 +52,8 @@
     color: white;
     background: rgba(0, 0, 0, 1);
     position: absolute;
-    top: 730px;
-    left: 312px;
+    top: 879px;
+    left: 381px;
     padding: 16px 8px;
     font-style: oblique;
 }
@@ -64,8 +61,8 @@
     color: white;
     background: rgba(0, 0, 0, 1);
     position: absolute;
-    top: 730px;
-    left: 614px;
+    top: 879px;
+    left: 751px;
     padding: 16px 8px;
     font-style: oblique;
 }
@@ -73,15 +70,15 @@
     color: white;
     background: rgba(0, 0, 0, 1);
     position: absolute;
-    top: 730px;
-    left: 918px;
+    top: 879px;
+    left: 1121px;
     padding: 16px 8px;
     font-style: oblique;
 }
 .John-Doe-information{
     position: absolute;
-    top: 1080px;
-    left: 5px;
+    top: 1280px;
+    left: 8px;
 }
 
 .John{
@@ -101,7 +98,7 @@
 
 .John-contact{
     display: inline-block;
-    padding: 8px 120px;
+    padding: 8px 150px;
     font-size: 16px;
     cursor: pointer;
     text-align: center;
@@ -116,8 +113,8 @@
 }
 .Jane-Doe-information{
     position: absolute;
-    top: 1080px;
-    left: 305px;
+    top: 1280px;
+    left: 381px;
 
 }
 .Jane{
@@ -134,7 +131,7 @@
 }
 .Jane-contact{
     display: inline-block;
-    padding: 8px 120px;
+    padding: 8px 150px;
     font-size: 16px;
     cursor: pointer;
     text-align: center;
@@ -149,8 +146,8 @@
 }
 .Mike-Ross-information{
     position: absolute;
-    top: 1080px;
-    left: 605px;
+    top: 1280px;
+    left: 751px;
 }
 .Mike{
     padding: 16px 8px;
@@ -165,7 +162,7 @@
 }
 .Mike-contact{
     display: inline-block;
-    padding: 8px 120px;
+    padding: 8px 150px;
     font-size: 16px;
     cursor: pointer;
     text-align: center;
@@ -180,8 +177,8 @@
 }
 .Dan-Star-information{
     position: absolute;
-    top: 1080px;
-    left: 905px;
+    top: 1280px;
+    left: 1121px;
 
 }
 .Dan{
@@ -195,7 +192,7 @@
 }
 .Dan-contact{
     display: inline-block;
-    padding: 8px 120px;
+    padding: 8px 150px;
     font-size: 16px;
     cursor: pointer;
     text-align: center;
@@ -210,14 +207,14 @@
 }
 .Contact-us{
     position: absolute;
-    top: 1450px;
+    top: 1650px;
 }
 .Sub-button{
     position: absolute;
-    top: 400px;
+    top: 320px;
     left: 439px;
     display: inline-block;
-    padding: 8px 50px;
+    padding: 8px 200px;
     font-size: 16px;
     cursor: pointer;
     text-align: center;
@@ -231,18 +228,18 @@
     color: black;
 }
 .Name{
-    padding: 8px 525px;
+    padding: 8px 660px;
 }
 .Email{
-    padding: 8px 525px;
+    padding: 8px 660px;
 }
 .Subject{
-    padding: 8px 525px;
+    padding: 8px 660px;
 }
 .Comment{
-    padding: 8px 525px;
+    padding: 8px 660px;
 }
 .footer{
     position: absolute;
-    top: 1950px;
+    top: 2080px;
 }
